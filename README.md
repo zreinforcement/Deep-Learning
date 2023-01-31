@@ -1,2 +1,6 @@
 # Deep-Learning
--Linear
+- Linear
+- CNN
+- RNN
+- GAN
+- Autoencoder
